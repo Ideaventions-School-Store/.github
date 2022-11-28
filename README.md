@@ -1,6 +1,6 @@
-# Ideaventions School Store Infrustructure
+## Ideaventions School Store Infrastructure
 
-## Planned Systems
+### Planned Systems
 
 - NFC checkout with support for Apple wallet
 - Library card support with one ID
